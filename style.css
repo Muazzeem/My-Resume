@@ -1,0 +1,17 @@
+body{
+	background: #ddd;
+	padding: 50px 0px;
+}
+.container{
+	background: #fff;
+}
+
+.profile-image img{
+	width: 150px;
+	height: 150px;
+}
+.object h2{
+	background: #ddd;
+	font-size: 1.5em;
+	padding: 2px 0px;
+}
